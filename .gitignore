@@ -1,0 +1,9 @@
+voices/
+wav/
+input/
+downloads/
+gashir-bot/
+__pycache__/
+*.ogg
+*.wav
+.env
